@@ -1,0 +1,11 @@
+C:\Users\Антон\documents\visual studio 2010\Projects\SmartHouseVisual\SmartHouseVisual\obj\x86\Debug\MainWindow.baml
+C:\Users\Антон\documents\visual studio 2010\Projects\SmartHouseVisual\SmartHouseVisual\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Антон\documents\visual studio 2010\Projects\SmartHouseVisual\SmartHouseVisual\obj\x86\Debug\App.g.cs
+C:\Users\Антон\documents\visual studio 2010\Projects\SmartHouseVisual\SmartHouseVisual\obj\x86\Debug\SmartHouseVisual_MarkupCompile.cache
+C:\Users\Антон\documents\visual studio 2010\Projects\SmartHouseVisual\SmartHouseVisual\obj\x86\Debug\SmartHouseVisual.g.resources
+C:\Users\Антон\documents\visual studio 2010\Projects\SmartHouseVisual\SmartHouseVisual\obj\x86\Debug\SmartHouseVisual.Properties.Resources.resources
+C:\Users\Антон\documents\visual studio 2010\Projects\SmartHouseVisual\SmartHouseVisual\obj\x86\Debug\SmartHouseVisual.csproj.GenerateResource.Cache
+C:\Users\Антон\documents\visual studio 2010\Projects\SmartHouseVisual\SmartHouseVisual\bin\Debug\SmartHouseVisual.exe
+C:\Users\Антон\documents\visual studio 2010\Projects\SmartHouseVisual\SmartHouseVisual\bin\Debug\SmartHouseVisual.pdb
+C:\Users\Антон\documents\visual studio 2010\Projects\SmartHouseVisual\SmartHouseVisual\obj\x86\Debug\SmartHouseVisual.exe
+C:\Users\Антон\documents\visual studio 2010\Projects\SmartHouseVisual\SmartHouseVisual\obj\x86\Debug\SmartHouseVisual.pdb
