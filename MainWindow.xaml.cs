@@ -63,6 +63,11 @@ namespace SmartHouseVisual
             buttonList.Add((Button)button4);
 
             cmd = new ButtonLightingCond(buttonList);
+
+            cmd.ChangeCond((Button)button1);
+            cmd.ChangeCond((Button)button2);
+            cmd.ChangeCond((Button)button3);
+            cmd.ChangeCond((Button)button4);
         }
 
         private void button5_Click(object sender, RoutedEventArgs e)
