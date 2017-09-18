@@ -9,3 +9,15 @@ C:\Users\Антон\documents\visual studio 2010\Projects\SmartHouseVisual\Smart
 C:\Users\Антон\documents\visual studio 2010\Projects\SmartHouseVisual\SmartHouseVisual\bin\Debug\SmartHouseVisual.pdb
 C:\Users\Антон\documents\visual studio 2010\Projects\SmartHouseVisual\SmartHouseVisual\obj\x86\Debug\SmartHouseVisual.exe
 C:\Users\Антон\documents\visual studio 2010\Projects\SmartHouseVisual\SmartHouseVisual\obj\x86\Debug\SmartHouseVisual.pdb
+C:\Users\Acer\Saved Games\Desktop\SHV\SmartHouseVisual-master\obj\x86\Debug\SmartHouseVisual.exe
+C:\Users\Acer\Saved Games\Desktop\SHV\SmartHouseVisual-master\obj\x86\Debug\SmartHouseVisual.pdb
+C:\Users\Acer\Saved Games\Desktop\SHV\SmartHouseVisual-master\bin\Debug\SmartHouseVisual.exe
+C:\Users\Acer\Saved Games\Desktop\SHV\SmartHouseVisual-master\bin\Debug\SmartHouseVisual.pdb
+C:\Users\Acer\Saved Games\Desktop\SHV\SmartHouseVisual-master\obj\x86\Debug\SmartHouseVisual.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Saved Games\Desktop\SHV\SmartHouseVisual-master\obj\x86\Debug\MainWindow.baml
+C:\Users\Acer\Saved Games\Desktop\SHV\SmartHouseVisual-master\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Acer\Saved Games\Desktop\SHV\SmartHouseVisual-master\obj\x86\Debug\App.g.cs
+C:\Users\Acer\Saved Games\Desktop\SHV\SmartHouseVisual-master\obj\x86\Debug\SmartHouseVisual_MarkupCompile.cache
+C:\Users\Acer\Saved Games\Desktop\SHV\SmartHouseVisual-master\obj\x86\Debug\SmartHouseVisual.g.resources
+C:\Users\Acer\Saved Games\Desktop\SHV\SmartHouseVisual-master\obj\x86\Debug\SmartHouseVisual.Properties.Resources.resources
+C:\Users\Acer\Saved Games\Desktop\SHV\SmartHouseVisual-master\obj\x86\Debug\SmartHouseVisual.csproj.GenerateResource.Cache
